@@ -96,6 +96,6 @@ Build Tool: Vite
 Deployment: Vercel
 
 📱 Deployment Link
-The application is deployed and can be accessed at: Quiz Platform
+The application is deployed and can be accessed at: https://quizapp-liart-phi.vercel.app/
 
 Made with ❤️ by Abhishek Hiwarkar 
